@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Public": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7016",
+      "launchBrowser": false
+    }
+  }
+}
